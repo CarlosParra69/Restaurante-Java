@@ -60,7 +60,7 @@ Este es un sistema web para gestionar reservas en un restaurante BBQ. Desarrolla
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/tuusuario/BBQReservationSystem.git
-````
+   ```
 
 2. Importa el proyecto a tu IDE (Eclipse, IntelliJ, etc.) como un proyecto Dynamic Web.
 
