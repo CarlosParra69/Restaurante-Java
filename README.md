@@ -1,8 +1,3 @@
-Aquí tienes un ejemplo profesional de un `README.md` para un sistema de reservas de restaurante BBQ desarrollado con JSP, AJAX y Bootstrap. Puedes personalizarlo según el nombre exacto del proyecto o detalles específicos como base de datos, framework adicional, etc.
-
----
-
-```markdown
 # 🍖 Sistema de Reservas - Restaurante BBQ
 
 Este es un sistema web para gestionar reservas en un restaurante BBQ. Desarrollado utilizando **JSP**, **Servlets**, **AJAX**, **Bootstrap**, y **MySQL** como base de datos. El sistema permite a los clientes realizar reservas en línea y al personal del restaurante gestionar las reservas desde un panel administrativo.
@@ -37,7 +32,6 @@ Este es un sistema web para gestionar reservas en un restaurante BBQ. Desarrolla
 
 ## 📦 Estructura del Proyecto
 
-```
 
 /BBQReservationSystem
 │
@@ -108,10 +102,3 @@ Este es un sistema web para gestionar reservas en un restaurante BBQ. Desarrolla
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-```
-
----
-
-¿Quieres que lo prepare con un estilo visual específico para GitHub o que incluya diagramas UML o de base de datos también?
-```
